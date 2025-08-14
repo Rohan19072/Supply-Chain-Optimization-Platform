@@ -76,10 +76,4 @@ This project demonstrates:
 • Developed genetic algorithm route optimization reducing transportation costs by 18%
 • Created supplier risk assessment preventing $2M+ in disruptions
 
-## 📞 Contact
 
-Built by: **Your Name**
-- LinkedIn: [Your Profile](https://linkedin.com/in/yourprofile)
-- Email: your.email@example.com
-
-⭐ **Star this repository if you found it helpful!**
