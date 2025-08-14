@@ -59,21 +59,8 @@ python src/api/main.py
 └── Dashboard          → Streamlit interactive interface
 ```
 
-## 📈 Perfect for Data Science Portfolio
 
-This project demonstrates:
-- **End-to-end ML pipeline** development
-- **Production-ready API** design
-- **Advanced optimization** algorithms
-- **Business impact** quantification
-- **Interactive dashboards** and visualizations
 
-## 🎯 Resume Impact
 
-**AI-POWERED SUPPLY CHAIN OPTIMIZATION PLATFORM**
-• Engineered comprehensive ML system reducing inventory costs by 23% through Prophet forecasting and optimization algorithms
-• Built production FastAPI serving 10K+ daily requests with 99.8% uptime
-• Developed genetic algorithm route optimization reducing transportation costs by 18%
-• Created supplier risk assessment preventing $2M+ in disruptions
 
 
