@@ -44,7 +44,6 @@ python src/api/main.py
 ## 📊 Business Impact
 
 - **Cost Savings**: 15-25% reduction in supply chain costs
-- **Inventory Optimization**: $2.3M working capital freed up
 - **Service Level**: 97% order fulfillment accuracy
 - **Risk Mitigation**: 67% reduction in supply disruptions
 - **Transportation**: 18% cost reduction through route optimization
@@ -58,6 +57,7 @@ python src/api/main.py
 ├── API Layer          → FastAPI REST endpoints
 └── Dashboard          → Streamlit interactive interface
 ```
+
 
 
 
